@@ -52,8 +52,4 @@ router.get("/api/accounts/:id", async (req, res) => {
   }
 });
 
-router.post("/api/accounts/:id", async (req,res)=>{
-
-})
-
 module.exports = router;
